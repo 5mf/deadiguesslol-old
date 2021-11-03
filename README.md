@@ -4,10 +4,10 @@
 <p align="center">
     7teen
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
+<img src="https://komarev.com/ghpvc/?username=jnajwhdanbiwduanwdioayuhbou2qgybroq&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/765515946856677386.png"/>
 </p>
 <p align="center">
 Currently learning JavaScript
