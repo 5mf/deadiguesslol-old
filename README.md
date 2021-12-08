@@ -11,6 +11,7 @@
 </p>
 <p align="center">
 Currently learning JavaScript
+<p align="center">    
 Old User: jnajwhdanbiwduanwdioayuhbou2qgybroq    
 <p align="center">
     <a href="https://discord.gg/qgbXvhDABY">Discord Server</a>
