@@ -4,14 +4,12 @@
 <p align="center">
     ice bear
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=jnajwhdanbiwduanwdioayuhbou2qgybroq&color=grey">
+<img src="https://komarev.com/ghpvc/?username=5mf&color=grey">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/765515946856677386.png"/>
 </p>
 <p align="center">
-Currently learning JavaScript
-<p align="center">    
-Old User: jnajwhdanbiwduanwdioayuhbou2qgybroq    
+Curently learning python
 <p align="center">
-    <a href="https://discord.gg/qgbXvhDABY">Discord Server</a>
+    <a href="https://discord.gg/3l">discord server</a>
