@@ -1,15 +1,12 @@
-<p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
-</p>
 <p align="center">
-    ice bear
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=5mf&color=grey">
-</p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/765515946856677386.png"/>
-</p>
+	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
+<p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
+<p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 <p align="center">
-Curently learning python
-<p align="center">
-    <a href="https://discord.gg/3l">discord server</a>
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+</p>
+<p></p>
+<p></p>
+</p>
